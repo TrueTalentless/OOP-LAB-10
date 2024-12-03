@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <doglist>
-    <dog award="Лучшая стойка" breed="Бассет-хаунд" judge="Федоров Н.Н." name="Шерлок" owner="Орлов О.О."/>
     <dog award="За отвагу" breed="Ротвейлер" judge="Сидоров С.С." name="Дина" owner="Попова А.А."/>
     <dog award="Самый дружелюбный" breed="Мопс" judge="Михайлов М.М." name="Тайсон" owner="Кузнецова Л.С."/>
-    <dog award="Л" breed="Д" judge="П" name="А" owner="В"/>
+    <dog award="Лучшая окраска" breed="Далматин" judge="Павлов П.П." name="Арчи" owner="Васильева В.В."/>
     <dog award="Самый красивый" breed="Шарпей" judge="Ильин И.И." name="Мухтар" owner="Филиппов А.В."/>
-    <dog award="1" breed="1" judge="1" name="лалала" owner="1"/>
 </doglist>

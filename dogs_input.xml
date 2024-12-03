@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doglist>
+    <dog name="Рекс" breed="Немецкая овчарка" owner="Иванов И.И." judge="Петров П.П." award="Лучший в породе"/>
+    <dog name="Барон" breed="Доберман" owner="Сидорова А.А." judge="Николаев Н.Н." award="Нет наград"/>
+    <dog name="Лесси" breed="Колли" owner="Смирнова А.А." judge="Кузнецов К.К." award="Чемпион"/>
+    <dog name="Бобик" breed="Бигль" owner="Ковалев В.В." judge="Романов Р.Р." award="Нет наград"/>
+    <dog name="Белка" breed="Лабрадор" owner="Новикова Е.В." judge="Филатов Ф.Ф." award="Приз зрительских симпатий"/>
+    <dog name="Шерлок" breed="Бассет-хаунд" owner="Орлов О.О." judge="Федоров Н.Н." award="Лучшая стойка"/>
+    <dog name="Дина" breed="Ротвейлер" owner="Попова А.А." judge="Сидоров С.С." award="За отвагу"/>
+    <dog name="Тайсон" breed="Мопс" owner="Кузнецова Л.С." judge="Михайлов М.М." award="Самый дружелюбный"/>
+    <dog name="Арчи" breed="Далматин" owner="Васильева В.В." judge="Павлов П.П." award="Лучшая окраска"/>
+    <dog name="Мухтар" breed="Шарпей" owner="Филиппов А.В." judge="Ильин И.И." award="Самый красивый"/>
+</doglist>
